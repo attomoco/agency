@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://attomo.co"
+baseurl = "https://attomoco.github.io/agency/"
 languageCode = "en-us"
 title = "ATTOMO: Launching Growth Together"
 theme = "hugo-agency-theme-master"
@@ -348,3 +348,5 @@ She worked at Pied Piper for years until they went belly up."""
   [privacy.youtube]
     disable = true
     privacyEnhanced = false
+
+publishDir = "docs"
